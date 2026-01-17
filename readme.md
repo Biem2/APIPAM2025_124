@@ -1,0 +1,1 @@
+npm exec sequelize-auto -- -o "./models" -d lokalan_db -h localhost -u root -p 3306 -e mysql
